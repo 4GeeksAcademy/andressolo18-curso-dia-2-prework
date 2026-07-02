@@ -2,6 +2,15 @@ body {
     background-color: aquamarine;
 }
 
-#imagen-aleatoria {
+.imagen-aleatoria {
     border-radius: 50%;
+    margin: 0 10px;
+}
+
+.imagenes {
+    display: flex;
+}
+
+#imagen-diferente {
+    opacity: 10%;
 }
